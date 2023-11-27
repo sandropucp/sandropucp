@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey 👋, I'm Sandro Sanchez
+
+[Medium](https://medium.com/@sandropucp)
+[Linkedin](https://www.linkedin.com/in/sandro-s-75358b10/)
+
+I'm creating software engineering articles on my [Medium Blog](https://medium.com/@sandropucp). If you're interested make sure you check it out 😄!
+
+#### *Looking for the source code from my articles?*
+The source code shown in my articles you can find in this repository
 
 <!--
 **sandropucp/sandropucp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
