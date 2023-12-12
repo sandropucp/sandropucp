@@ -6,7 +6,7 @@
 I'm creating software engineering articles on my [Medium Blog](https://medium.com/@sandropucp). If you're interested make sure you check it out 😄!
 
 #### *Looking for the source code from my articles?*
-The source code shown in my articles you can find in this repository
+You can find here all my source code from my articles and some other personal projects too :)
 
 <!--
 **sandropucp/sandropucp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
